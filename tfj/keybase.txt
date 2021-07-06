@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/tfj
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://tfj.keybase.pub
+  * I am tfj (https://keybase.io/tfj) on keybase.
+  * I have a public key ASARxkwMt1MyqrgHkarMoEJnx6yl4To-jhdvCauzzc8dswo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101fec65f44d23706c1618ab1ac25757f5f56efe0c82a573be3d81105efafffc9820a",
+      "host": "keybase.io",
+      "kid": "012011c64c0cb75332aab80791aacca04267c7aca5e13a3e8e176f09abb3cdcf1db30a",
+      "uid": "23e0b687474e2814c6085ed70481c719",
+      "username": "tfj"
+    },
+    "merkle_root": {
+      "ctime": 1518863538,
+      "hash": "35ba6cd7422db128d7c4c6ac84d2b546d34022909051f1c6650e44910a20a5bf99ea40cbec55c04b3d5a5ac64a4bc8d94b6ef0378eaa3dfaa6c3794fb08fe9a6",
+      "hash_meta": "57e14a8e9a06a83dda0d512e5383a10204b3a1f0d4a34761b6bf4603aaa768ff",
+      "seqno": 2114984
+    },
+    "service": {
+      "hostname": "tfj.keybase.pub",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.40"
+  },
+  "ctime": 1518863580,
+  "expire_in": 504576000,
+  "prev": "c191f23d7d7313e69745fcf6af84483842b56eceb97b0e25928472742a4fffb4",
+  "seqno": 125,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgEcZMDLdTMqq4B5GqzKBCZ8espeE6Po4Xbwmrs83PHbMKp3BheWxvYWTFA0R7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxZmVjNjVmNDRkMjM3MDZjMTYxOGFiMWFjMjU3NTdmNWY1NmVmZTBjODJhNTczYmUzZDgxMTA1ZWZhZmZmYzk4MjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMTFjNjRjMGNiNzUzMzJhYWI4MDc5MWFhY2NhMDQyNjdjN2FjYTVlMTNhM2U4ZTE3NmYwOWFiYjNjZGNmMWRiMzBhIiwidWlkIjoiMjNlMGI2ODc0NzRlMjgxNGM2MDg1ZWQ3MDQ4MWM3MTkiLCJ1c2VybmFtZSI6InRmaiJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTUxODg2MzUzOCwiaGFzaCI6IjM1YmE2Y2Q3NDIyZGIxMjhkN2M0YzZhYzg0ZDJiNTQ2ZDM0MDIyOTA5MDUxZjFjNjY1MGU0NDkxMGEyMGE1YmY5OWVhNDBjYmVjNTVjMDRiM2Q1YTVhYzY0YTRiYzhkOTRiNmVmMDM3OGVhYTNkZmFhNmMzNzk0ZmIwOGZlOWE2IiwiaGFzaF9tZXRhIjoiNTdlMTRhOGU5YTA2YTgzZGRhMGQ1MTJlNTM4M2ExMDIwNGIzYTFmMGQ0YTM0NzYxYjZiZjQ2MDNhYWE3NjhmZiIsInNlcW5vIjoyMTE0OTg0fSwic2VydmljZSI6eyJob3N0bmFtZSI6InRmai5rZXliYXNlLnB1YiIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjQwIn0sImN0aW1lIjoxNTE4ODYzNTgwLCJleHBpcmVfaW4iOjUwNDU3NjAwMCwicHJldiI6ImMxOTFmMjNkN2Q3MzEzZTY5NzQ1ZmNmNmFmODQ0ODM4NDJiNTZlY2ViOTdiMGUyNTkyODQ3Mjc0MmE0ZmZmYjQiLCJzZXFubyI6MTI1LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQNTbu71MhmHnDb7EI4UvSaTfLfo/z1Qha5/fgwTgfx45t4gfa68Z6fLcrPFHmiZVLl4zH5E5ervebNtOMfzpYAyoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCDER+OtXvSZZs1ocZzm3RskZ8I0i8y429fBzj4ai6m+O6N0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/tfj
+
+==================================================================
