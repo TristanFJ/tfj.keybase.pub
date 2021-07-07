@@ -1,13 +1,17 @@
+body {
+    background-color: #101010;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif; }
+
+h1.name{
+    color: #62DC8D; 
+    font-family: 'Alegreya', serif; } /* custom title name font */
+
 h1 {
     color: #62DC8D; }
 
 p {
     color: white; }
-
-body {
-    background-color: #101010;
-    text-align: center;
-    font-family: 'Open Sans', sans-serif; }
 
 h2 {
     max-width: 1080px; 
@@ -21,7 +25,6 @@ h2 {
     width: 50%;
     border-style: solid;
     padding: 25px; }
-
 
 a:link {
     color: white;
@@ -37,3 +40,7 @@ a:hover, a:active {
 
 nav {
     position: static; }
+
+/*
+design images: background, header/footer, aside?
+*/
