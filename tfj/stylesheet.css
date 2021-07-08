@@ -15,8 +15,8 @@ p {
 
 h2 {
     max-width: 1080px; 
-    margin: 0 auto !important; 
-    float: none !important; 
+    margin: 0 auto; 
+    float: none; 
     text-align: left;
     color: white;
     border-width: 3px;
