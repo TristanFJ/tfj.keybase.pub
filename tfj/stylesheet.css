@@ -23,7 +23,8 @@ div {
     border-color: gray;
     width: 50%;
     border-style: solid;
-    padding: 25px;}
+    padding: 25px;
+    background-color: rgb(44, 44, 44);}
 
 h2 {
     max-width: 1080px; 
