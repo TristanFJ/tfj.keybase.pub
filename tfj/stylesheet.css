@@ -14,7 +14,7 @@ p {
     color: white;}
 
 div {
-    margin: 0 auto; 
+    margin: 2% auto; 
     float: none; 
     text-align: left;
     color: white;
@@ -28,7 +28,7 @@ div {
 
 h2 {
     max-width: 1080px; 
-    margin: 0 auto; 
+    margin: 2% auto; 
     float: none; 
     text-align: left;
     color: white;}
