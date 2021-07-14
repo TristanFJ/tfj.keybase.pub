@@ -1,49 +1,49 @@
 body {
-    background-color: #101010;
+    background-color: hsl(0, 0%, 6%);
     text-align: center;
     font-family: 'Open Sans', sans-serif;}
 
 h1.name{
-    color: #62DC8D; 
+    color: hsl(141, 64%, 62%); 
     font-family: 'Alegreya', serif;}
 
 h1 {
-    color: #62DC8D;}
+    color: hsl(141, 64%, 62%);}
 
 p {
-    color: white;}
+    color: hsl(0, 0%, 100%);}
 
 div {
     margin: 2% auto; 
     float: none; 
     text-align: left;
-    color: white;
+    color: hsl(0, 0%, 100%);
     border-width: 3px;
     border-radius: 50px;
-    border-color: gray;
+    border-color: hsl(0, 0%, 50%);
     width: 50%;
     border-style: solid;
     padding: 25px;
-    background-color: rgb(44, 44, 44);}
+    background-color: hsl(0, 0%, 17%);}
 
 h2 {
     max-width: 1080px; 
     margin: 2% auto; 
     float: none; 
     text-align: left;
-    color: white;}
+    color: hsl(0, 0%, 100%);}
 
 a:link {
-    color: white;
-    text-decoration-color: #62DC8D;}
+    color: hsl(0, 0%, 100%);
+    text-decoration-color: hsl(141, 64%, 62%);}
 
 a:visited {
-    color: white;
-    text-decoration-color: gray;}
+    color: hsl(0, 0%, 100%);
+    text-decoration-color: hsl(0, 0%, 50%);}
 
 a:hover, a:active {
-    color: white;
-    text-decoration-color: white;}
+    color: hsl(0, 0%, 100%);
+    text-decoration-color: hsl(0, 0%, 100%);}
 
 nav {
     position: static;}
