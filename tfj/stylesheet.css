@@ -21,7 +21,7 @@ div {
     border-width: 3px;
     border-radius: 50px;
     border-color: hsl(0, 0%, 50%);
-    width: 50%;
+    width: fit-content;
     border-style: solid;
     padding: 25px;
     background-color: hsl(0, 0%, 17%);}
