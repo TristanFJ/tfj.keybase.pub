@@ -1,37 +1,40 @@
 body {
-    background-color: hsl(0, 0%, 6%);
+    background-color: hsl(0, 0%, 8%);
     text-align: center;
     font-family: 'Open Sans', sans-serif;}
-
-h1.name{
-    color: hsl(141, 64%, 62%); 
-    font-family: 'Alegreya', serif;}
-
-h1 {
-    color: hsl(141, 64%, 62%);}
-
-p {
-    color: hsl(0, 0%, 100%);}
 
 div {
     margin: 2% auto; 
     float: none; 
     text-align: left;
     color: hsl(0, 0%, 100%);
-    border-width: 3px;
+    border-width: 2px;
     border-radius: 50px;
     border-color: hsl(0, 0%, 50%);
     width: fit-content;
     border-style: solid;
     padding: 25px;
-    background-color: hsl(0, 0%, 17%);}
+    background-color: hsl(0, 0%, 18%);}
+
+h1 {
+    color: hsl(141, 64%, 62%);}
 
 h2 {
-    max-width: 1080px; 
+     max-width: 1080px; 
     margin: 2% auto; 
     float: none; 
     text-align: left;
     color: hsl(0, 0%, 100%);}
+
+h1.name{
+    color: hsl(141, 64%, 62%); 
+    font-family: 'Alegreya', serif;}
+
+p {
+    color: hsl(0, 0%, 100%);}
+
+a {
+    font-weight: 888;}
 
 a:link {
     color: hsl(0, 0%, 100%);
@@ -44,9 +47,6 @@ a:visited {
 a:hover, a:active {
     color: hsl(0, 0%, 100%);
     text-decoration-color: hsl(0, 0%, 100%);}
-
-nav {
-    position: static;}
 
 /*
 TODO: 
