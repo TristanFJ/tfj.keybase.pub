@@ -20,13 +20,13 @@ h1 {
     color: hsl(141, 64%, 62%);}
 
 h2 {
-     max-width: 1080px; 
+    max-width: 1080px; 
     margin: 2% auto; 
     float: none; 
     text-align: left;
     color: hsl(0, 0%, 100%);}
 
-h1.name{
+h1.name {
     color: hsl(141, 64%, 62%); 
     font-family: 'Alegreya', serif;}
 
