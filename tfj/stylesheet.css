@@ -39,16 +39,20 @@ a {
     font-weight: 888;}
 
 a:link {
-    color: hsl(0, 0%, 100%);
-    text-decoration-color: hsl(141, 64%, 62%);}
+    color: hsl(231, 64%, 62%);
+    text-decoration-color: hsl(231, 64%, 62%);}
 
 a:visited {
-    color: hsl(0, 0%, 100%);
-    text-decoration-color: hsl(0, 0%, 50%);}
+    color: hsl(141, 64%, 62%);
+    text-decoration-color: hsl(231, 64%, 62%);}
 
-a:hover, a:active {
-    color: hsl(0, 0%, 100%);
+a:hover {
+    color: hsl(231, 64%, 62%);
     text-decoration-color: hsl(0, 0%, 100%);}
+
+a:active {
+    color: hsl(0, 0%, 100%);
+    text-decoration-color: hsl(141, 64%, 62%);}
 
 /*
 TODO: 
@@ -56,5 +60,5 @@ TODO:
 
 ~ h.name larger size (doesn't work mobile)
 
-~ a fontweight doesn't seem to work on home page?
+~ a font-weight doesn't seem to work on home page?
 */
