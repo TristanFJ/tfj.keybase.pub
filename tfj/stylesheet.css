@@ -33,7 +33,8 @@ h1.name {
 
 p {
     color: hsl(0, 0%, 100%);
-    font-family: 'Alegreya', serif;}
+    font-family: 'Alegreya', serif;
+    font-size: large;}
 
 a {
     font-weight: 888;}
