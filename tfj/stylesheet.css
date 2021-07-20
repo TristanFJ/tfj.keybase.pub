@@ -39,6 +39,11 @@ p {
 a {
     font-weight: 888;}
 
+.booklink {
+    float: left;
+    width: 100px;
+    height: 125px;}
+
 a:link {
     color: hsl(231, 64%, 62%);
     text-decoration-color: hsl(231, 64%, 62%);}
