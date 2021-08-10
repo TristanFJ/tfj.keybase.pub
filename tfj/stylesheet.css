@@ -12,7 +12,7 @@ div {
     border-width: 2px;
     border-radius: 50px;
     border-color: hsl(0, 0%, 50%);
-    width: fit-content;
+    width: 75%;
     border-style: solid;
     padding: 25px;
     background-color: hsl(0, 0%, 18%);}
