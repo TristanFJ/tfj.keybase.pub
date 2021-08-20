@@ -15,7 +15,8 @@ div {
     width: 75%;
     border-style: solid;
     padding: 25px;
-    background-color: hsl(0, 0%, 18%);}
+    background-color: hsl(0, 0%, 18%);
+    box-shadow: 5px 4px 3px hsl(0, 0%, 50%);}
 
 h1 {
     color: hsl(141, 64%, 62%);}
