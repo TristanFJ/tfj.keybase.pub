@@ -2,11 +2,15 @@ body {
     background-color: hsl(0, 0%, 8%);
     text-align: center;
     font-family: 'Open Sans', sans-serif;
-    line-height: 2;}
+    line-height: 2;
+    background-image: radial-gradient(hsl(0, 0%, 25%), 1px, transparent 1px);
+    background-size: 32px 32px;
+    background-position: 16px 16px;
+}
 
 div {
     margin: 2% auto;
-    float: none; 
+    float: none;
     text-align: left;
     color: hsl(0, 0%, 100%);
     border-width: 2px;
@@ -16,52 +20,63 @@ div {
     border-style: solid;
     padding: 25px;
     background-color: hsl(0, 0%, 18%);
-    box-shadow: 5px 4px 3px hsl(0, 0%, 50%);}
+    box-shadow: 5px 4px 3px hsl(0, 0%, 50%);
+}
 
 h1 {
-    color: hsl(141, 64%, 62%);}
+    color: hsl(141, 64%, 62%);
+}
 
 h2 {
-    max-width: 1080px; 
-    margin: 2% auto; 
-    float: none; 
+    max-width: 1080px;
+    margin: 2% auto;
+    float: none;
     text-align: left;
-    color: hsl(0, 0%, 100%);}
+    color: hsl(0, 0%, 100%);
+}
 
 h1.name {
     position: relative;
     top: 20px;
-    color: hsl(141, 64%, 62%); 
-    font-family: 'Alegreya', serif;}
+    color: hsl(141, 64%, 62%);
+    font-family: 'Alegreya', serif;
+}
 
 p {
     color: hsl(0, 0%, 100%);
     font-family: 'Alegreya', serif;
-    font-size: large;}
+    font-size: large;
+}
 
 a {
-    font-weight: 888;}
+    font-weight: 888;
+}
 
 .booklink {
     float: left;
     width: 100px;
-    height: 125px;}
+    height: 125px;
+}
 
 a:link {
     color: hsl(231, 64%, 62%);
-    text-decoration-color: hsl(231, 64%, 62%);}
+    text-decoration-color: hsl(231, 64%, 62%);
+}
 
 a:visited {
     color: hsl(141, 64%, 62%);
-    text-decoration-color: hsl(231, 64%, 62%);}
+    text-decoration-color: hsl(231, 64%, 62%);
+}
 
 a:hover {
     color: hsl(231, 64%, 62%);
-    text-decoration-color: hsl(0, 0%, 100%);}
+    text-decoration-color: hsl(0, 0%, 100%);
+}
 
 a:active {
     color: hsl(0, 0%, 100%);
-    text-decoration-color: hsl(141, 64%, 62%);}
+    text-decoration-color: hsl(141, 64%, 62%);
+}
 
 /*
 TODO: 
