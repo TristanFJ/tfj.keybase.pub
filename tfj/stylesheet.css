@@ -52,6 +52,10 @@ a {
     font-weight: 888;
 }
 
+.logo {
+    border-radius: 50%;
+}
+
 .booklink {
     float: left;
     width: 100px;
