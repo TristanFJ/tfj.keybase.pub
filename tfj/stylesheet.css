@@ -3,9 +3,12 @@ body {
     text-align: center;
     font-family: 'Open Sans', sans-serif;
     line-height: 2;
-    background-image: radial-gradient(hsl(0, 0%, 25%), 1px, transparent 1px);
+    background-image: radial-gradient(var(--tertiary-color), 1px, transparent 1px);
     background-size: 32px 32px;
     background-position: 16px 16px;
+    --primary-color: #9fd9fd; /* sha256 _T_F_J_ 9fd9fd9646c4c7e41d46960590776073996eaa28d3c62107461bfb41b3f54373 */
+    --secondary-color: #9ffcf2; /* analogous colors */
+    --tertiary-color: #9faafc;
 }
 
 div {
@@ -20,11 +23,11 @@ div {
     border-style: solid;
     padding: 25px;
     background-color: hsl(0, 0%, 18%);
-    box-shadow: 5px 4px 3px hsl(0, 0%, 50%);
+    box-shadow: 5px 4px 3px var(--primary-color);
 }
 
 h1 {
-    color: hsl(141, 64%, 62%);
+    color: var(--primary-color);
 }
 
 h2 {
@@ -38,7 +41,7 @@ h2 {
 h1.name {
     position: relative;
     top: 20px;
-    color: hsl(141, 64%, 62%);
+    color: var(--primary-color);
     font-family: 'Alegreya', serif;
 }
 
@@ -63,23 +66,23 @@ a {
 }
 
 a:link {
-    color: hsl(231, 64%, 62%);
-    text-decoration-color: hsl(231, 64%, 62%);
+    color: var(--primary-color);
+    text-decoration-color: var(--secondary-color);
 }
 
 a:visited {
-    color: hsl(141, 64%, 62%);
-    text-decoration-color: hsl(231, 64%, 62%);
+    color: var(--tertiary-color);
+    text-decoration-color: var(--tertiary-color);
 }
 
 a:hover {
-    color: hsl(231, 64%, 62%);
-    text-decoration-color: hsl(0, 0%, 100%);
+    color: var(--primary-color);
+    text-decoration-color: var(--primary-color);
 }
 
 a:active {
-    color: hsl(0, 0%, 100%);
-    text-decoration-color: hsl(141, 64%, 62%);
+    color: var(--secondary-color);
+    text-decoration-color: var(--primary-color);
 }
 
 /*
